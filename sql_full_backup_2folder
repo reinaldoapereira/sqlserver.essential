@@ -1,5 +1,3 @@
--- 
-
 create procedure [dbo].[sp_BACKUP_ALL] @path nvarchar(400)
 as
 begin
